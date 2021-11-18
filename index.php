@@ -5,5 +5,6 @@
 </head>
 <body>
 <p>hej</p>
-tjena</body>
+<?php echo "tjena";?>
+</body>
 </html>
